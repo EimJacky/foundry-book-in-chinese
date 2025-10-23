@@ -23,7 +23,7 @@
 默认情况下，`forge install` 安装最新的 master 分支版本。 如果你想安装一个特定的标签或提交，你可以这样做：
 
 ```sh
-$ forge install transmission11/solmate@v7
+$ forge install transmissions11/solmate@v7
 ```
 
 ### 重新映射依赖项
